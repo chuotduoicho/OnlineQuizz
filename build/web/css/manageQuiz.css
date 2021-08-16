@@ -1,0 +1,45 @@
+td {
+    vertical-align: top;
+}
+
+.total {
+    padding-top: 10px;
+}
+
+.question {
+    width: 350px;
+    padding-right: 10px;
+}
+
+.question-list {
+    padding-top: 20px;
+}
+
+.question-list tr {
+    margin-bottom: 5px;
+}
+.table-question {
+    border-spacing: 15px 15px; /*Specifies the distance between the borders of adjacent cells*/
+}
+.pagination {
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;/*Specifies that the flexible items will wrap if necessary*/
+    list-style-type: none; /*No marker is shown*/
+    margin-top: 40px;
+}
+.pagination a {
+    color:#433dff;
+}
+.pagination li {
+    margin-right: 8px;
+}
+.pagination li a {
+    text-decoration: none;
+}
+.pagination .active {
+    text-decoration: underline;
+    font-weight: 600;
+    pointer-events: none; /*The element does not react to pointer events*/
+    cursor: default; /*allows you to specify the type of cursor that should be displayed to the user. An arrow*/
+}

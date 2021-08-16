@@ -1,0 +1,19 @@
+.container {
+    color: slategray;
+}
+.score-number {
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+}
+.score {
+    margin-left: 5px;
+}
+.again {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+}
+.btn {
+    margin-left: 5px;
+}

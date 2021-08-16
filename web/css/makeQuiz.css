@@ -1,0 +1,25 @@
+.submit-form {
+    padding-top: 15px;
+    font-size: 14px;
+}
+.label {
+    color: slategray;
+}
+td {
+    vertical-align: top; /*The element is aligned with the top of the tallest element on the line*/
+}
+#question {
+    width:  450px;
+    height: 80px;
+}
+.option {
+    width: 450px;
+    height: 40px;
+}
+.answer {
+    display: flex;
+    flex-direction: row;
+}
+.option-answer {
+    margin-right: 5px;
+}

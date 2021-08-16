@@ -1,0 +1,22 @@
+.welcome {
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+}
+.user-name {
+    margin-left: 5px;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+}
+.input-form {
+    padding-top: 30px;
+}
+.text {
+    width: 100px;
+}
+.submit {
+    width: 50px;
+    margin-left: 200px;
+}

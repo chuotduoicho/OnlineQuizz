@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/css/login.css</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/context/DBContext.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/js/manageQuiz.js</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/model/Question.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/register.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/question.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/score.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/controller/MakeQuizController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/header.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/css/score.css</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/controller/TakeTestController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/css/takeQuiz.css</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/css/manageQuiz.css</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/home.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/model/Test.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/dao/TestDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/controller/DeleteQuestionController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/controller/TakeQuestionController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/model/User.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/filter/AuthenFilter.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/filter/AuthorTeacherFilter.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/controller/ManageQuizController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/controller/LogoutController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/css/header.css</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/controller/ResultController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/filter/CheckJspFilter.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/css/question.css</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/dao/QuestionDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/js/question.js</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/js/register.js</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/takeQuiz.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/css/makeQuiz.css</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/controller/HomeController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/makeQuiz.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/js/login.js</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/css/style.css</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/web/js/makeQuiz.js</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OnlineQuizz/src/java/controller/RegisterController.java</file>
+        </group>
+    </open-files>
+</project-private>
